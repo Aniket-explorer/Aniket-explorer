@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m Aniket Kumar <br>I love building impactful web applications and solving real-world problems through code. <br>💻 Software Development Engineer | Data Structures and Algorithms | 🚀 Tech Enthusiast <br> ## **About Me :** 
+Hi, I’m Aniket Kumar <br>I love building impactful web applications and solving real-world problems through code. <br>💻 Software Development Engineer | Data Structures and Algorithms | 🚀 Tech Enthusiast <br><br>
+## **About Me :** 
  🎓 B.Tech CSE @ VIT Bhopal University, 2025 Graduate<br>🤝 I’m looking to collaborate on full-stack development projects and open-source contributions.  <br>🙋‍♂️ I’m looking for help with optimizing backend performance and building scalable REST APIs using the MERN stack.  <br>🌱 I’m currently learning advanced React, Next.js, and system design.  <br>💬 Ask me about Java, MERN Stack development, and building scalable web apps.<br> 
 ## **Tech Stack** 
 **Languages:**
