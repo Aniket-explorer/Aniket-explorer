@@ -10,7 +10,7 @@ I love building impactful web applications and solving real-world problems throu
 **Tools:**
 <br>MySQL | Git/GitHub | VS Code | MongoDB | Vercel | Canva<br>
 ## 🏆 Extra-Curriculars & Achievements 
--🥈 Runner-up in Web Development Hackathon at VIT Bhopal<br>- 🧠 Solved 250+ coding problems across various platforms (HackerRank, LeetCode, CodeStudio, etc.)<br>- 👨‍🏫 Technical Team Co-Lead at Tech Entrepreneurship Club, VIT Bhopal<br>- 🎤 Event Management Lead at Hindi Club, VIT Bhopal
+-🥈 Runner-up in Web Development Hackathon @ VIT Bhopal<br>- 🧠 Solved 250+ coding problems across various platforms<br>- 👨‍🏫 Technical Team Co-Lead at Tech Entrepreneurship Club, VIT Bhopal<br>- 🎤 Event Management Lead at Hindi Club, VIT Bhopal
 
 
 # 🌐 Socials:
