@@ -1,13 +1,15 @@
 # 💫 About Me:
 Hi, I’m Aniket Kumar <br>I love building impactful web applications and solving real-world problems through code. <br>💻 Software Development Engineer | Data Structures and Algorithms | 🚀 Tech Enthusiast <br><br> 
- ## **About Me :** <br>🎓 B.Tech CSE @ VIT Bhopal University, 2025 Graduate<br>🤝 I’m looking to collaborate on full-stack development projects and open-source contributions.  <br>🙋‍♂️ I’m looking for help with optimizing backend performance and building scalable REST APIs using the MERN stack.  <br>🌱 I’m currently learning advanced React, Next.js, and system design.  <br>💬 Ask me about Java, MERN Stack development, and building scalable web apps.<br> 
+ ## **About Me :** 
+ 🎓 B.Tech CSE @ VIT Bhopal University, 2025 Graduate<br>🤝 I’m looking to collaborate on full-stack development projects and open-source contributions.  <br>🙋‍♂️ I’m looking for help with optimizing backend performance and building scalable REST APIs using the MERN stack.  <br>🌱 I’m currently learning advanced React, Next.js, and system design.  <br>💬 Ask me about Java, MERN Stack development, and building scalable web apps.<br> 
 ## **Tech Stack** <br>**Languages:**
 <br>Java | JavaScript | Python | SQL | HTML & CSS<br><br>
 **Frameworks & Libraries:**
 <br>React.js | Node.js | Express.js | Tailwind CSS | Bootstrap<br><br>
 **Tools:**
 <br>MySQL | Git/GitHub | VS Code | MongoDB | Vercel | Canva<br><br>
-## 🏆 Extra-Curriculars & Achievements <br>- 🥈 Runner-up in Web Development Hackathon at VIT Bhopal<br>- 🧠 Solved 250+ coding problems across various platforms (HackerRank, LeetCode, CodeStudio, etc.)<br>- 👨‍🏫 Technical Team Co-Lead at Tech Entrepreneurship Club, VIT Bhopal<br>- 🎤 Event Management Lead at Hindi Club, VIT Bhopal
+## 🏆 Extra-Curriculars & Achievements 
+- 🥈 Runner-up in Web Development Hackathon at VIT Bhopal<br>- 🧠 Solved 250+ coding problems across various platforms (HackerRank, LeetCode, CodeStudio, etc.)<br>- 👨‍🏫 Technical Team Co-Lead at Tech Entrepreneurship Club, VIT Bhopal<br>- 🎤 Event Management Lead at Hindi Club, VIT Bhopal
 
 
 # 🌐 Socials:
